@@ -1,0 +1,34 @@
+body {
+    background-image:url(fondo.jpg) ;
+    background-size: cover;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+p{
+    color: rgb(58, 49, 12);
+}
+h1{
+    text-align: center;
+    color: rgb(175, 53, 84);
+}
+nav{
+    text-align: center;
+}
+h3{
+    font-family: cursive;
+    font-size: medium;
+    color: rgb(41, 141, 111);
+}
+a{
+    color: rgb(230, 205, 106);
+}
+ul{
+    color: rgb(107, 95, 48);
+}
+nav a{
+    background-color: forestgreen;
+}
+img{
+    width: 1150px;
+    height: 800px;
+}
